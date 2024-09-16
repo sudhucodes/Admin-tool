@@ -94,3 +94,7 @@ def process_project(project_path, project_name):
 project_path = 'C:/Users/sudha/OneDrive/Desktop/Admin Tool/Netflix-Login-Page'
 project_name = 'Netflix-login-page-project'  # Update this name
 process_project(project_path, project_name)
+
+
+# python admin.py
+
