@@ -1,4 +1,4 @@
-# Project Automation Script for Netflix Login Page
+# Project Automation Script
 
 This Python script automates several essential tasks for web development projects, particularly aimed at packaging and organizing project assets for delivery or archiving. The script handles various operations such as zipping the entire project, taking screenshots, converting files, and organizing the output into a well-structured folder.
 
