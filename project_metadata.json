@@ -1,0 +1,574 @@
+{
+    "HTMLCSS-MSF-20240929-7K8XM": {
+        "projectId": "HTMLCSS-MSF-20240929-7K8XM",
+        "projectName": "Responsive Multi-Step Signup Form with HTML, CSS, and JavaScript",
+        "shortName": "Multi-Step Signup - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 29, 2024 at 10:10 PM"
+    },
+    "HTMLCSS-CU-H-20240929-5C599": {
+        "projectId": "HTMLCSS-CU-H-20240929-5C599",
+        "projectName": "Contact Us Form with HTML and CSS - Responsive Design",
+        "shortName": "Contact Us - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "September 29, 2024 at 10:27 PM"
+    },
+    "HTMLCSS-ERS-H-20240929-OYIA8": {
+        "projectId": "HTMLCSS-ERS-H-20240929-OYIA8",
+        "projectName": "E-commerce Red Store A Comprehensive HTML & CSS Website",
+        "shortName": "E-commerce Red Store - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 29, 2024 at 10:33 PM"
+    },
+    "HTMLCSS-MLP-H-20240929-Q49CZ": {
+        "projectId": "HTMLCSS-MLP-H-20240929-Q49CZ",
+        "projectName": "Sleek Modern Login Page with Social Media Authentication",
+        "shortName": "Modern login page - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 29, 2024 at 10:45 PM"
+    },
+    "HTMLCSS-L&S-H-20240929-1KRU1": {
+        "projectId": "HTMLCSS-L&S-H-20240929-1KRU1",
+        "projectName": "Dynamic Login & Signup Page with Slide Animation (HTML & CSS)",
+        "shortName": "Login & Signup - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "September 29, 2024 at 10:54 PM"
+    },
+    "HTMLCSS-LPG-H-20240929-6NY0Q": {
+        "projectId": "HTMLCSS-LPG-H-20240929-6NY0Q",
+        "projectName": "Stylish Login Form with Glassmorphism and Blur Effect (HTML & CSS)",
+        "shortName": "Login page Glassmorphism - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 29, 2024 at 11:03 PM"
+    },
+    "HTMLCSS-HEC-H-20240929-U0973": {
+        "projectId": "HTMLCSS-HEC-H-20240929-U0973",
+        "projectName": "Interactive Card Design with Hover Effect (HTML & CSS)",
+        "shortName": "Hover Effect Card - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 29, 2024 at 11:07 PM"
+    },
+    "HTMLCSS-NLC-H-20240930-V5SRI": {
+        "projectId": "HTMLCSS-NLC-H-20240930-V5SRI",
+        "projectName": "Netflix Login Page Clone with HTML & CSS",
+        "shortName": "Netflix Login Clone - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:07 AM"
+    },
+    "HTMLCSS-LPWP-H-20240930-C79MM": {
+        "projectId": "HTMLCSS-LPWP-H-20240930-C79MM",
+        "projectName": "Light-Themed Login Page with User Profile Display (HTML & CSS)",
+        "shortName": "Login Page with Profile - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:11 AM"
+    },
+    "HTMLCSS-HS&L-H-20240930-6F8K4": {
+        "projectId": "HTMLCSS-HS&L-H-20240930-6F8K4",
+        "projectName": "Responsive Hero Section with Popup Login Form Integration (HTML, CSS & JavaScript)",
+        "shortName": "Hero Section & Login - HTML/CSS/JS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:15 AM"
+    },
+    "HTMLCSS-CDL-H-20240930-D5L7N": {
+        "projectId": "HTMLCSS-CDL-H-20240930-D5L7N",
+        "projectName": "Dark-Themed Professional Login Page Clone Inspired by Creatica (HTML & CSS)",
+        "shortName": "Creatica Dark Login - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:22 AM"
+    },
+    "HTMLCSS-MLP-H-20240930-UUTKM": {
+        "projectId": "HTMLCSS-MLP-H-20240930-UUTKM",
+        "projectName": "Modern Landing Page with Stylish Hero Section and Navbar (HTML & CSS)",
+        "shortName": "Modern Landing Page - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:26 AM"
+    },
+    "HTMLCSS-RS-H-20240930-VDE2V": {
+        "projectId": "HTMLCSS-RS-H-20240930-VDE2V",
+        "projectName": "Responsive Sidebar Menu with Smooth Animations (HTML & CSS)",
+        "shortName": "Responsive Sidebar - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:28 AM"
+    },
+    "HTMLCSS-SML-H-20240930-5RGN6": {
+        "projectId": "HTMLCSS-SML-H-20240930-5RGN6",
+        "projectName": "Interactive Social Media Icons with Hover Animation (HTML & CSS)",
+        "shortName": "Social Media Links - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "September 30, 2024 at 08:32 AM"
+    },
+    "HTMLCSS-YC-H-20240930-ZRJCL": {
+        "projectId": "HTMLCSS-YC-H-20240930-ZRJCL",
+        "projectName": "YouTube Clone Project with Modern UI and Functionality (HTML, CSS & JavaScript)",
+        "shortName": "YouTube Clone - HTML/CSS/JS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:35 AM"
+    },
+    "HTMLCSS-CU-H-20240930-L8367": {
+        "projectId": "HTMLCSS-CU-H-20240930-L8367",
+        "projectName": "Calculator UI Design with Modern Aesthetics (HTML & CSS)",
+        "shortName": "Calculator UI - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "September 30, 2024 at 08:39 AM"
+    },
+    "HTMLCSS-L&S-H-20240930-NW31T": {
+        "projectId": "HTMLCSS-L&S-H-20240930-NW31T",
+        "projectName": "Login & Signup Page Combo with Smooth Transition (HTML, CSS & JavaScript)",
+        "shortName": "Login & Signup - HTML/CSS/JS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "September 30, 2024 at 08:45 AM"
+    },
+    "HTMLCSS-DLP-H-20240930-LNKR8": {
+        "projectId": "HTMLCSS-DLP-H-20240930-LNKR8",
+        "projectName": "Dark-Themed Login Page with Social Media Authentication (HTML & CSS)",
+        "shortName": "Dark Login Page - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:48 AM"
+    },
+    "HTMLCSS-VCD-H-20240930-OV9SZ": {
+        "projectId": "HTMLCSS-VCD-H-20240930-OV9SZ",
+        "projectName": "Realistic Visa Credit Card Design (HTML & CSS)",
+        "shortName": "Visa Card Design - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 08:50 AM"
+    },
+    "HTMLCSS-RF-H-20240930-RH0C7": {
+        "projectId": "HTMLCSS-RF-H-20240930-RH0C7",
+        "projectName": "Stylish Registration Form Design with Responsive Layout (HTML & CSS)",
+        "shortName": "Registration Form - HTML/CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "September 30, 2024 at 08:52 AM"
+    },
+    "TAILWINDCSS-LF-T-20240930-3V1XT": {
+        "projectId": "TAILWINDCSS-LF-T-20240930-3V1XT",
+        "projectName": "Modern Login Form with Glassmorphism Effect & Background Image (TailwindCSS)",
+        "shortName": "Login Form - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "September 30, 2024 at 09:29 AM"
+    },
+    "JAVASCRIPT-C-H-20240930-P4ZFU": {
+        "projectId": "JAVASCRIPT-C-H-20240930-P4ZFU",
+        "projectName": "Dark-Themed Clock Built with HTML, CSS & JavaScript",
+        "shortName": "Clock - HTML/CSS/JS",
+        "category": "javascript",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "September 30, 2024 at 09:39 AM"
+    },
+    "JAVASCRIPT-GC-H-20240930-QOFT3": {
+        "projectId": "JAVASCRIPT-GC-H-20240930-QOFT3",
+        "projectName": "Student Grade Calculator Using HTML, CSS & JavaScript",
+        "shortName": "Grade Calculator - HTML/CSS/JS",
+        "category": "javascript",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "September 30, 2024 at 09:41 AM"
+    },
+    "TAILWINDCSS-LP-T-20241001-C6UL0": {
+        "projectId": "TAILWINDCSS-LP-T-20241001-C6UL0",
+        "projectName": "Premium Login Page with TailwindCSS & Gradient Background",
+        "shortName": "Login Page - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 01, 2024 at 09:49 AM"
+    },
+    "TAILWINDCSS-SP-T-20241001-2EVB6": {
+        "projectId": "TAILWINDCSS-SP-T-20241001-2EVB6",
+        "projectName": "Premium Signup Page with TailwindCSS & Gradient Background",
+        "shortName": "Signup Page - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 01, 2024 at 11:01 AM"
+    },
+    "TAILWINDCSS-DC-T-20241001-H0YNH": {
+        "projectId": "TAILWINDCSS-DC-T-20241001-H0YNH",
+        "projectName": "Web Developer Profile Card with TailwindCSS & Responsive Design",
+        "shortName": "Developer Card - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "October 01, 2024 at 01:54 PM"
+    },
+    "TAILWINDCSS-TPIF-20241001-RUWO5": {
+        "projectId": "TAILWINDCSS-TPIF-20241001-RUWO5",
+        "projectName": "Advanced Payment Form with TailwindCSS & Smooth User Interface",
+        "shortName": "TailwindCSS Payment Interface Form",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "October 01, 2024 at 10:50 PM"
+    },
+    "TAILWINDCSS-PT-T-20241002-KV8UN": {
+        "projectId": "TAILWINDCSS-PT-T-20241002-KV8UN",
+        "projectName": "Hostinger Domain Plan Pricing Table Clone - Using TailwindCSS",
+        "shortName": "Pricing Table - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 02, 2024 at 10:50 PM"
+    },
+    "TAILWINDCSS-RS-T-20241002-FCKLI": {
+        "projectId": "TAILWINDCSS-RS-T-20241002-FCKLI",
+        "projectName": "A Professional and User-Friendly Review Section Design Using TailwindCSS",
+        "shortName": "Review section - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "October 02, 2024 at 11:45 PM"
+    },
+    "TAILWINDCSS-PC-T-20241003-PD8WO": {
+        "projectId": "TAILWINDCSS-PC-T-20241003-PD8WO",
+        "projectName": "Premium Subscription Pricing Card with Tailwind CSS and Feature List",
+        "shortName": "Pricing Card - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 03, 2024 at 10:40 AM"
+    },
+    "TAILWINDCSS-FI-T-20241003-X354Q": {
+        "projectId": "TAILWINDCSS-FI-T-20241003-X354Q",
+        "projectName": "Dynamic FAQ Interface - Smooth Toggle Animations for Web Development Queries",
+        "shortName": "FAQ Interface - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 03, 2024 at 12:55 PM"
+    },
+    "TAILWINDCSS-UL-T-20241003-CXMJG": {
+        "projectId": "TAILWINDCSS-UL-T-20241003-CXMJG",
+        "projectName": "Interactive User List Component with Profiles Tailwind CSS",
+        "shortName": "User List - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 03, 2024 at 10:14 PM"
+    },
+    "TAILWINDCSS-WIC-T-20241003-JRFON": {
+        "projectId": "TAILWINDCSS-WIC-T-20241003-JRFON",
+        "projectName": "An Engaging and Interactive Weather Information Card Design Using Tailwind CSS",
+        "shortName": "Weather Information Card - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "October 03, 2024 at 11:52 PM"
+    },
+    "JAVASCRIPT-MR-J-20241004-6DKOE": {
+        "projectId": "JAVASCRIPT-MR-J-20241004-6DKOE",
+        "projectName": "Smartest Mind Reader Project using JAVASCRIPT",
+        "shortName": "Mind Reader - JavaScript",
+        "category": "javascript",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 04, 2024 at 08:41 AM"
+    },
+    "TAILWINDCSS-LPD-T-20241004-4JWYL": {
+        "projectId": "TAILWINDCSS-LPD-T-20241004-4JWYL",
+        "projectName": "Sleek and Dynamic Login Design Crafted with TailwindCSS",
+        "shortName": "Login Page Design - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "October 04, 2024 at 06:36 PM"
+    },
+    "TAILWINDCSS-OVD-T-20241004-WHB3V": {
+        "projectId": "TAILWINDCSS-OVD-T-20241004-WHB3V",
+        "projectName": "Stylish OTP Verification with Gradient Hover Effects Using TailwindCSS",
+        "shortName": "OTP Verification Design - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 04, 2024 at 10:52 PM"
+    },
+    "TAILWINDCSS-SMID-T-20241004-63RPF": {
+        "projectId": "TAILWINDCSS-SMID-T-20241004-63RPF",
+        "projectName": "Elegant Social Media Icon Design with Fluid Animations in TailwindCSS",
+        "shortName": "Social Media Icon Design - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 04, 2024 at 10:54 PM"
+    },
+    "TAILWINDCSS-PRU-T-20241005-HMJUC": {
+        "projectId": "TAILWINDCSS-PRU-T-20241005-HMJUC",
+        "projectName": "Modern and User-Friendly Password Reset UI Built with TailwindCSS",
+        "shortName": "Password Reset UI - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 05, 2024 at 08:22 PM"
+    },
+    "TAILWINDCSS-PCT-T-20241005-1PRUR": {
+        "projectId": "TAILWINDCSS-PCT-T-20241005-1PRUR",
+        "projectName": "Interactive Profile Card with Smooth Hover Transitions Using TailwindCSS",
+        "shortName": "Profile Card Transitions - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 05, 2024 at 10:40 PM"
+    },
+    "TAILWINDCSS-SF-T-20241006-6I05Y": {
+        "projectId": "TAILWINDCSS-SF-T-20241006-6I05Y",
+        "projectName": "Interactive Sign-In Form with Smooth Label Animation and TailwindCSS",
+        "shortName": "Sign-In Form - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 06, 2024 at 12:45 AM"
+    },
+    "TAILWINDCSS-SF-T-20241006-QW5C9": {
+        "projectId": "TAILWINDCSS-SF-T-20241006-QW5C9",
+        "projectName": "Simple Sign-Up Form with Clean Design with TailwindCSS",
+        "shortName": "Sign-Up Form - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 06, 2024 at 09:40 AM"
+    },
+    "TAILWINDCSS-FD-T-20241006-1YGAR": {
+        "projectId": "TAILWINDCSS-FD-T-20241006-1YGAR",
+        "projectName": "Responsive Footer Design with TailwindCSS for a Developer Website",
+        "shortName": "Footer Design - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "October 06, 2024 at 08:56 PM"
+    },
+    "TAILWINDCSS-CUS-T-20241007-OGEBD": {
+        "projectId": "TAILWINDCSS-CUS-T-20241007-OGEBD",
+        "projectName": "Professional Contact Us Section with Social Links and Clean UI TailwindCSS",
+        "shortName": "Contact Us Section - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 07, 2024 at 09:53 AM"
+    },
+    "TAILWINDCSS-PW-T-20241008-CR02Z": {
+        "projectId": "TAILWINDCSS-PW-T-20241008-CR02Z",
+        "projectName": "Portfolio Website with Smooth Scrolling Navbar and Hero Section - TailwindCSS",
+        "shortName": "Portfolio Website - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": true,
+        "uploadTime": "October 08, 2024 at 09:46 AM"
+    },
+    "HTMLCSS-LP-H-20241009-CHN3V": {
+        "projectId": "HTMLCSS-LP-H-20241009-CHN3V",
+        "projectName": "Login page with Email Authentication and Social Media Sign-In",
+        "shortName": "Login page - HTML&CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": true,
+        "uploadTime": "October 09, 2024 at 12:28 PM"
+    },
+    "TAILWINDCSS-OVP-T-20241009-J7UZX": {
+        "projectId": "TAILWINDCSS-OVP-T-20241009-J7UZX",
+        "projectName": "Modern OTP Verification Page with Resend Option - TailwindCSS",
+        "shortName": "OTP Verification Page - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 09, 2024 at 02:54 PM"
+    },
+    "TAILWINDCSS-PCC-T-20241010-M4PUF": {
+        "projectId": "TAILWINDCSS-PCC-T-20241010-M4PUF",
+        "projectName": "Step-by-Step Instagram Profile Completion Cards - TailwindCSS Design",
+        "shortName": "Profile Completion Cards - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 10, 2024 at 09:57 AM"
+    },
+    "TAILWINDCSS-PC-T-20241011-4C45Y": {
+        "projectId": "TAILWINDCSS-PC-T-20241011-4C45Y",
+        "projectName": "Gradient-Themed Profile Card with Social Media Links - TailwindCSS",
+        "shortName": "Profile Card - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 11, 2024 at 09:02 PM"
+    }
+}
