@@ -295,9 +295,9 @@ def process_project(project_path, project_name, short_name, category, files_avai
     move_files_to_locations(project_id, has_assets)
 
 
-project_path = 'C:/Users/sudha/OneDrive/Desktop/Files/Coding Project Final/'
-project_name = ''
-short_name = ' - TailwindCSS'
+project_path = 'C:/Users/sudha/OneDrive/Desktop/Files/Coding Project Final/Responsive Customer Review and Highlight Testimonial Card - TailwindCSS'
+project_name = 'Responsive Customer Review and Highlight Testimonial Card - TailwindCSS'
+short_name = 'Testimonial Card - TailwindCSS'
 category = 'tailwindCSS'
 files_available = ['html']
 

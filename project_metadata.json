@@ -570,5 +570,61 @@
         ],
         "hasAssets": false,
         "uploadTime": "October 11, 2024 at 09:02 PM"
+    },
+    "TAILWINDCSS-SFD-T-20241012-W3OPO": {
+        "projectId": "TAILWINDCSS-SFD-T-20241012-W3OPO",
+        "projectName": "Dark Mode Signup Form Design using TailwindCSS",
+        "shortName": "Signup Form Design - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 12, 2024 at 08:52 AM"
+    },
+    "TAILWINDCSS-FPAHC-T-20241013-REWOI": {
+        "projectId": "TAILWINDCSS-FPAHC-T-20241013-REWOI",
+        "projectName": "Engaging Responsive Feature Presentation and Highlight Card - TailwindCSS",
+        "shortName": "Feature Presentation and Highlight Card - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 13, 2024 at 09:26 PM"
+    },
+    "TAILWINDCSS-CD-T-20241013-KR0ML": {
+        "projectId": "TAILWINDCSS-CD-T-20241013-KR0ML",
+        "projectName": "Professional Card Design Highlighting Beginner Plans TailwindCSS",
+        "shortName": "Card Design - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": false,
+        "uploadTime": "October 13, 2024 at 09:27 PM"
+    },
+    "HTMLCSS-DN-H-20241103-W6WFQ": {
+        "projectId": "HTMLCSS-DN-H-20241103-W6WFQ",
+        "projectName": "Dynamic Navbar with Gradient Offer and Navigation Links - HTML&CSS",
+        "shortName": "Dynamic Navbar - HTML&CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "November 03, 2024 at 10:17 PM"
+    },
+    "TAILWINDCSS-TC-T-20241103-66CAO": {
+        "projectId": "TAILWINDCSS-TC-T-20241103-66CAO",
+        "projectName": "Responsive Customer Review and Highlight Testimonial Card - TailwindCSS",
+        "shortName": "Testimonial Card - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": true,
+        "uploadTime": "November 03, 2024 at 10:35 PM"
     }
 }
