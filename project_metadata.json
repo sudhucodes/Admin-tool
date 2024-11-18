@@ -626,5 +626,18 @@
         ],
         "hasAssets": true,
         "uploadTime": "November 03, 2024 at 10:35 PM"
+    },
+    "JAVASCRIPT-CWFF-J-20241118-JYT5U": {
+        "projectId": "JAVASCRIPT-CWFF-J-20241118-JYT5U",
+        "projectName": "All-in-One Advanced Smart Calculator with Full Functionality - JavaScript",
+        "shortName": "Calculator with Full Functionality - JavaScript",
+        "category": "javascript",
+        "filesAvailable": [
+            "html",
+            "css",
+            "js"
+        ],
+        "hasAssets": false,
+        "uploadTime": "November 18, 2024 at 05:37 PM"
     }
 }
