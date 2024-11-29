@@ -639,5 +639,28 @@
         ],
         "hasAssets": false,
         "uploadTime": "November 18, 2024 at 05:37 PM"
+    },
+    "HTMLCSS-PPC-H-20241129-TW8E1": {
+        "projectId": "HTMLCSS-PPC-H-20241129-TW8E1",
+        "projectName": "Professional Plan Pricing Component - Modern Design - (HTML&CSS)",
+        "shortName": "Plan Pricing Component - HTML&CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "November 29, 2024 at 08:11 PM"
+    },
+    "TAILWINDCSS-UUC-T-20241129-MUXTR": {
+        "projectId": "TAILWINDCSS-UUC-T-20241129-MUXTR",
+        "projectName": "UI UX Creative Design Card Built with TailwindCSS",
+        "shortName": "UI UX Card - TailwindCSS",
+        "category": "tailwindCSS",
+        "filesAvailable": [
+            "html"
+        ],
+        "hasAssets": false,
+        "uploadTime": "November 29, 2024 at 08:24 PM"
     }
 }
