@@ -93,7 +93,7 @@ def zip_image_folder(image_folder, project_id):
     return False
 
 def convert_to_txt(project_path, project_id):
-    for file_name in ['index.html', 'style.css', 'script.js']:
+    for file_name in ['index.html', 'style.css', 'script.js', 'index.jsx']:
         file_path = os.path.join(project_path, file_name)
         if os.path.exists(file_path):
             with open(file_path, 'r') as file:
@@ -104,6 +104,8 @@ def convert_to_txt(project_path, project_id):
                 txt_name = f"{project_id}-css.txt"
             elif file_name == 'script.js':
                 txt_name = f"{project_id}-js.txt"
+            elif file_name == 'index.jsx':
+                txt_name = f"{project_id}-jsx.txt"
             txt_path = os.path.join('C:/Users/sudha/OneDrive/Desktop/Project-Manager', txt_name)
             with open(txt_path, 'w') as txt_file:
                 txt_file.write(content)
@@ -244,6 +246,8 @@ def move_files_to_locations(project_id, has_assets):
         files_to_move.append((f"{project_id}-css.txt", css_txt_folder))
     if os.path.exists(os.path.join('C:/Users/sudha/OneDrive/Desktop/Project-Manager', f"{project_id}-js.txt")):
         files_to_move.append((f"{project_id}-js.txt", js_txt_folder))
+    if os.path.exists(os.path.join('C:/Users/sudha/OneDrive/Desktop/Project-Manager', f"{project_id}-jsx.txt")):
+        files_to_move.append((f"{project_id}-jsx.txt", js_txt_folder))
 
     if has_assets:
         files_to_move.append((f"{project_id}-assets.zip", assets_folder))
@@ -307,10 +311,10 @@ def process_project(project_path, project_name, short_name, category, files_avai
     move_files_to_locations(project_id, has_assets)
 
 
-project_path = 'C:/Users/sudha/OneDrive/Desktop/Files/Coding Project Final/Professional Plan Pricing Component - Modern Design - (HTML&CSS)'
-project_name = 'Professional Plan Pricing Component - Modern Design - (HTML&CSS)'
-short_name = 'Plan Pricing Component - HTML&CSS'
+project_path = 'C:/Users/sudha/OneDrive/Desktop/Files/Coding Project Final/Interactive Command Line Interface Terminal Card Component - HTML&CSS'
+project_name = 'Interactive Command Line Interface Terminal Card Component - HTML&CSS'
+short_name = 'Command Line Interface - HTML&CSS'
 category = 'htmlcss'
-files_available = ['html', "css"]
+files_available = ['html', 'css']
 
 process_project(project_path, project_name, short_name, category, files_available)

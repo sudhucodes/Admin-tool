@@ -654,7 +654,7 @@
     },
     "TAILWINDCSS-UUC-T-20241129-MUXTR": {
         "projectId": "TAILWINDCSS-UUC-T-20241129-MUXTR",
-        "projectName": "UI UX Creative Design Card Built with TailwindCSS",
+        "projectName": "Modern UI/UX Creative Design Card Built with TailwindCSS",
         "shortName": "UI UX Card - TailwindCSS",
         "category": "tailwindCSS",
         "filesAvailable": [
@@ -662,5 +662,51 @@
         ],
         "hasAssets": false,
         "uploadTime": "November 29, 2024 at 08:24 PM"
+    },
+    "REACTJS-SB-R-20241130-STD5U": {
+        "projectId": "REACTJS-SB-R-20241130-STD5U",
+        "projectName": "Responsive and Customizable Search Bar with ReactJS & TailwindCSS",
+        "shortName": "Search Bar - ReactJS",
+        "category": "reactJS",
+        "filesAvailable": [
+            "jsx"
+        ],
+        "hasAssets": false,
+        "uploadTime": "November 30, 2024 at 09:54 AM"
+    },
+    "REACTJS-CSA-R-20241201-V0FGC": {
+        "projectId": "REACTJS-CSA-R-20241201-V0FGC",
+        "projectName": "Dynamic Color Switcher Application - Made with ReactJS",
+        "shortName": "Color Switcher Application - ReactJS",
+        "category": "reactJS",
+        "filesAvailable": [
+            "jsx"
+        ],
+        "hasAssets": false,
+        "uploadTime": "December 01, 2024 at 10:17 AM"
+    },
+    "HTMLCSS-PPC-H-20241216-8JXBX": {
+        "projectId": "HTMLCSS-PPC-H-20241216-8JXBX",
+        "projectName": "Professional Plan Pricing Component Modern Design - (HTML&CSS)",
+        "shortName": "Plan Pricing Component - HTML&CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "December 16, 2024 at 10:26 PM"
+    },
+    "HTMLCSS-CLI-H-20241218-EURHY": {
+        "projectId": "HTMLCSS-CLI-H-20241218-EURHY",
+        "projectName": "Interactive Command Line Interface Terminal Card Component - HTML&CSS",
+        "shortName": "Command Line Interface - HTML&CSS",
+        "category": "htmlcss",
+        "filesAvailable": [
+            "html",
+            "css"
+        ],
+        "hasAssets": false,
+        "uploadTime": "December 18, 2024 at 08:06 PM"
     }
 }
