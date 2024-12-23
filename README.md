@@ -200,4 +200,4 @@ This project is licensed under the **MIT License**.
 Developed by **SudhuCodes**  
 - **GitHub:** [SudhuCodes](https://github.com/sudhucodes)  
 - **Instagram:** [@sudhucodes](https://instagram.com/sudhucodes)  
-- **Email:** sudhuteam@gmail.com  
+- **Email:** sudhuteam@gmail.com
